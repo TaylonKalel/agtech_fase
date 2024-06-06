@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85558468528",
+    "project_id": "agtech20240606",
+    "storage_bucket": "agtech20240606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85558468528:android:83e679e6991d6fe7fa0075",
+        "android_client_info": {
+          "package_name": "com.br.agtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3t3BRfuCnYwrmgiOMAYzshRgSAmskfxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

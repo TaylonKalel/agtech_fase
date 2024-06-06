@@ -1,0 +1,26 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.dart_tool": true,
+        "**/.idea": true,
+        "**/android": true,
+        "**/ios": true,
+        "**/linux": true,
+        "**/macos": true,
+        "**/test": true,
+        "**/windows": true,
+        "**/.flutter-plugins": true,
+        "**/.flutter-plugins-dependencies": true,
+        "**/.gitignore": true,
+        "**/analysis_options.yaml": true,
+        "**/pubspec.lock": true,
+        "**/README.md": true,
+        "**/.metadata": true,
+        "**/agtech.iml": true,
+        "**/web": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    }
+}
